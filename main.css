@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+html, body {
+    margin: 0;
+    font-family: Arial;
+}
+
 body {
     background: red;
 }
