@@ -1,3 +1,15 @@
 body {
-    background: yellow;
+    background: grey;
+}
+
+.checklist {
+
+}
+
+.checklist__item {
+    display: block;
+}
+
+.checklist__item input:checked + span {
+    color: red;
 }
