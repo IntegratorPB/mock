@@ -1,3 +1,5 @@
+## This is test project for git learning
+
 1. `git add .` - Добавить все файлы к коммиту
 2. `git commit -m "Message"` - Добавить коммист с сообщением
 3. `git checkout branch` - Перейти на ветку
