@@ -11,6 +11,18 @@ body {
     background: wheat;
 }
 
+.checklist {
+
+}
+
+.checklist__item {
+    display: block;
+}
+
+.checklist__item input:checked + span {
+    color: red;
+}
+
 ul {
     color: white;
     background-color: black;
