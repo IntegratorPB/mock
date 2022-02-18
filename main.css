@@ -8,5 +8,10 @@ html, body {
 }
 
 body {
-    background: red;
+    background: wheat;
+}
+
+ul {
+    color: white;
+    background-color: black;
 }
