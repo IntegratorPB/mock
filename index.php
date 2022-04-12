@@ -1,1 +1,3 @@
-This is index php
+<?php 
+    echo 'This is index php'; 
+?>
